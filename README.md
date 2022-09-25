@@ -13,5 +13,5 @@ SB ID - SB20220160993
 
 Google Developer Profile Link - https://g.dev/VikneshS7
 
-Smartinternz Public Profile Link - https://smartinternz.com/student-profile/feed/U0IyMDIyMDE2MDk5Mw==
+
 
